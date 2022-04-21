@@ -1,0 +1,5 @@
+name: gradient-chat-demo
+main: me.nullicorn.gradientchat.GradientChatPlugin
+
+version: 0.0.1
+api-version: 1.18
